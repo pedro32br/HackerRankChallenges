@@ -1,14 +1,12 @@
 # HackerRankChallenges
 Every challenge I develop, I will put in this repository
 
-teste
-
 ### List of exercicies
 * [2D Array - DS](https://www.hackerrank.com/challenges/2d-array/problem)
 
 ## About Me
 * [HackerRank](https://www.hackerrank.com/pedrobragadev)
 
-* [Linkedin]()
+* [Linkedin](https://www.linkedin.com/in/pedrobragadev/)
 
-* ![/images/github.png](https://www.hackerrank.com/challenges/2d-array/problem)
+* [StackOverflow](https://stackoverflow.com/story/pedrobragadev)
