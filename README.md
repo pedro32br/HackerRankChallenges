@@ -3,6 +3,7 @@ Every challenge I develop, I will put in this repository
 
 ### List of exercicies
 * [2D Array - DS](https://www.hackerrank.com/challenges/2d-array/problem)
+* [Array Manipulation](https://www.hackerrank.com/challenges/crush/problem)
 
 ## About Me 
 * [HackerRank](https://www.hackerrank.com/pedrobragadev)
