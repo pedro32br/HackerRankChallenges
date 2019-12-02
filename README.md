@@ -11,4 +11,4 @@ teste
 
 * [Linkedin]()
 
-* ![GitHub Logo](/images/github.png)
+* ![/images/github.png](https://www.hackerrank.com/challenges/2d-array/problem)
