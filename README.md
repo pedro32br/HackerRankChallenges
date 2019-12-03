@@ -8,6 +8,7 @@ Every challenge I develop, I will put in this repository
 
 ##### Medium ⭐⭐
 1. [Sorting: Comparator](https://www.hackerrank.com/challenges/ctci-comparator-sorting/problem) ✅
+2. [New Year Chaos](https://www.hackerrank.com/challenges/new-year-chaos/problem) ✅
 
 ##### Hard ⭐⭐⭐ 
 1. [Array Manipulation](https://www.hackerrank.com/challenges/crush/problem) ✅
