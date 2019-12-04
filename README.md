@@ -6,6 +6,7 @@ Every challenge I develop, I will put in this repository
 1. [2D Array - DS](https://www.hackerrank.com/challenges/2d-array/problem) ✅
 2. [Sock Merchant](https://www.hackerrank.com/challenges/sock-merchant/problem) ✅
 3. [Drawing Book](https://www.hackerrank.com/challenges/drawing-book/problem) ✅
+4. [Counting Valleys](https://www.hackerrank.com/challenges/counting-valleys/problem) ✅
 
 ##### Medium ⭐⭐
 1. [Sorting: Comparator](https://www.hackerrank.com/challenges/ctci-comparator-sorting/problem) ✅
