@@ -24,6 +24,8 @@ Every challenge I develop, I will put in this repository
 |1. | [Revising the Select Query I](https://www.hackerrank.com/challenges/revising-the-select-query/problem) |
 |2. | [Revising the Select Query II](https://www.hackerrank.com/challenges/revising-the-select-query-2/problem) | 
 |3. | [Select All](https://www.hackerrank.com/challenges/select-all-sql/problem) |
+|4. | [Employee Salaries](https://www.hackerrank.com/challenges/salary-of-employees/problem) |
+|5. | [Weather Observation Station 3](https://www.hackerrank.com/challenges/weather-observation-station-3/problem) |
 
 ## About Me 
 * [HackerRank](https://www.hackerrank.com/pedrobragadev)
