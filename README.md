@@ -3,7 +3,7 @@ Every challenge I develop, I will put in this repository
 
 ### List of exercicies by level
 
-####----- Java ------
+#### ----- Java ------
 ##### Easy ⭐
 1.  ✅ [2D Array - DS](https://www.hackerrank.com/challenges/2d-array/problem)
 2.  ✅ [Sock Merchant](https://www.hackerrank.com/challenges/sock-merchant/problem)
