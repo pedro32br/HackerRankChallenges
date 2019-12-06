@@ -2,6 +2,8 @@
 Every challenge I develop, I will put in this repository
 
 ### List of exercicies by level
+
+####----- Java ------
 ##### Easy ⭐
 1.  ✅ [2D Array - DS](https://www.hackerrank.com/challenges/2d-array/problem)
 2.  ✅ [Sock Merchant](https://www.hackerrank.com/challenges/sock-merchant/problem)
@@ -22,6 +24,16 @@ Every challenge I develop, I will put in this repository
 
 ##### Hard ⭐⭐⭐ 
 1. ✅ [Array Manipulation](https://www.hackerrank.com/challenges/crush/problem)
+
+#### ------ SQL ------
+
+##### Easy ⭐
+1. ✅ [Revising the Select Query I](https://www.hackerrank.com/challenges/revising-the-select-query/problem)
+
+
+##### Medium ⭐⭐
+
+##### Hard ⭐⭐⭐ 
 
 ## About Me 
 * [HackerRank](https://www.hackerrank.com/pedrobragadev)
