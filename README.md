@@ -29,6 +29,7 @@ Every challenge I develop, I will put in this repository
 
 ##### Easy ⭐
 1. ✅ [Revising the Select Query I](https://www.hackerrank.com/challenges/revising-the-select-query/problem)
+2. ✅ [Revising the Select Query II](https://www.hackerrank.com/challenges/revising-the-select-query-2/problem)
 
 
 ##### Medium ⭐⭐
