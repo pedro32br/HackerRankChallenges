@@ -16,6 +16,7 @@ Every challenge I develop, I will put in this repository
 |8. | [Alternating Characters](https://www.hackerrank.com/challenges/alternating-characters/problem)
 |9. | [Hash Tables: Ransom Note](https://www.hackerrank.com/challenges/ctci-ransom-note/problem)
 |10. | [Minimum Absolute Difference](https://www.hackerrank.com/challenges/minimum-absolute-difference-in-an-array/problem)
+|11. | [Arrays: Left Rotation](https://www.hackerrank.com/challenges/ctci-array-left-rotation/problem) |
 
 ### ------ SQL ------
 
