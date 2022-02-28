@@ -1,6 +1,5 @@
 // An example Java program for demonstrating HashTable and HashMap
 import java.util.*;
-import java.io.*;
 import java.lang.*;
 class Sample
 {
@@ -13,7 +12,7 @@ class Sample
         hasht.put(501,"Raja");
         hasht.put(502,"Raja");
         System.out.println("******Hash table******");
-        for (Map.Entry mm:hasht.entrySet()) {
+        for (Map.Entry<Integer, String> mm:hasht.entrySet()) {
             System.out.println(mm.getKey()+" "+mm.getValue());
         }
 
@@ -25,7 +24,7 @@ class Sample
         hashm.put(501,"Sanjay");
         hashm.put(502,"Sanjay");
         System.out.println("********Hash Map******");
-        for (Map.Entry mm:hashm.entrySet()) {
+        for (Map.Entry<Integer, String> mm:hashm.entrySet()) {
             System.out.println(mm.getKey()+" "+mm.getValue());
         }
     }
