@@ -1,31 +1,32 @@
 // An example Java program for demonstrating HashTable and HashMap
-import java.util.*;
-import java.lang.*;
-class Sample
-{
-    public static void main(String args[])
-    {
-//hashtable
-        Hashtable<Integer,String> hasht=new Hashtable<Integer,String>();
-        hasht.put(500,"Abi");
-        hasht.put(500,"Ragul");
-        hasht.put(501,"Raja");
-        hasht.put(502,"Raja");
-        System.out.println("******Hash table******");
-        for (Map.Entry<Integer, String> mm:hasht.entrySet()) {
-            System.out.println(mm.getKey()+" "+mm.getValue());
-        }
 
-//----------------hashmap--------------------------------
+import java.io.IOException;
+import java.util.HashMap;
+import java.util.Optional;
 
-        HashMap<Integer,String> hashm=new HashMap<Integer,String>();
-        hashm.put(500,"Abi");
-        hashm.put(500,"Ajith");  //One null value is allowed in HashMap
-        hashm.put(501,"Sanjay");
-        hashm.put(502,"Sanjay");
-        System.out.println("********Hash Map******");
-        for (Map.Entry<Integer, String> mm:hashm.entrySet()) {
-            System.out.println(mm.getKey()+" "+mm.getValue());
+class Teste {
+
+    private static String twoStrings(final String s1, final String s2) {
+        final HashMap c1 = new HashMap<String, String>();
+        for(final char x : s1.toCharArray()) {
+            c1.put(x, "NO");
         }
+        for(final char y : s2.toCharArray()) {
+            final Optional optional = Optional.ofNullable(c1.get(y));
+            if(optional.isPresent()) {
+                return "YES";
+            }
+        }
+        return "NO";
+    }
+
+    public static void main(final String[] args) throws IOException {
+
+        final String s1 = "Alvoroco";
+
+        final String s2 = "Nescau";
+
+        final String result = twoStrings(s1, s2);
+
     }
 }

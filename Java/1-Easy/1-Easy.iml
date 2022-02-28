@@ -15,6 +15,7 @@
       <sourceFolder url="file://$MODULE_DIR$/Repeated String" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/Sock Merchant" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/Strings Making Anagrams" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/TwoStrings" isTestSource="false" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
