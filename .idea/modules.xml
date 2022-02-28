@@ -2,6 +2,9 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/Java/1-Easy/1-Easy.iml" filepath="$PROJECT_DIR$/Java/1-Easy/1-Easy.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Java/2-Medium/2-Medium.iml" filepath="$PROJECT_DIR$/Java/2-Medium/2-Medium.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Java/3-Hard/3-Hard.iml" filepath="$PROJECT_DIR$/Java/3-Hard/3-Hard.iml" />
       <module fileurl="file://$PROJECT_DIR$/HackerRankChallenges.iml" filepath="$PROJECT_DIR$/HackerRankChallenges.iml" />
     </modules>
   </component>

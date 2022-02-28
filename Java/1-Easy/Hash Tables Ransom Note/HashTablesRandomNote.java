@@ -6,7 +6,7 @@ import java.util.*;
 import java.util.concurrent.*;
 import java.util.regex.*;
 
-public class Solution {
+public class HashTablesRandomNote {
 
     // Complete the checkMagazine function below.
     static void checkMagazine(String[] magazine, String[] note) {

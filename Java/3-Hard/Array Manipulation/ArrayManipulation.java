@@ -6,7 +6,7 @@ import java.util.*;
 import java.util.concurrent.*;
 import java.util.regex.*;
 
-public class Solution {
+public class ArrayManipulation {
 
     // Complete the arrayManipulation function below.
     static long arrayManipulation(int n, long [] array) {

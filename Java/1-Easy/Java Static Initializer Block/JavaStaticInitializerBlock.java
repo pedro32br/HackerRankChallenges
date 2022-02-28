@@ -4,7 +4,7 @@ import java.text.*;
 import java.math.*;
 import java.util.regex.*;
 
-public class Solution {
+public class JavaStaticInitializerBlock {
     public static int B = 0;
     public static int H = 0;
     public static boolean flag;
@@ -29,4 +29,3 @@ public class Solution {
     }//end of main
 
 }//end of class
-

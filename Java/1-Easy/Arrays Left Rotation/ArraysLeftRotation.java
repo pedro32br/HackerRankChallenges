@@ -6,7 +6,7 @@ import java.util.*;
 import java.util.concurrent.*;
 import java.util.regex.*;
 
-public class Solution {
+public class ArraysLeftRotation {
 
     // Complete the rotLeft function below.
     static ArrayList rotLeft(int[] a, int d) {

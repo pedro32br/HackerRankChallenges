@@ -1,7 +1,7 @@
 import java.io.*;
 import java.util.*;
 
-public class Solution {
+public class StringsMakingAnagrams {
 
     // Complete the makeAnagram function below.
     static int makeAnagram(String a, String b) {

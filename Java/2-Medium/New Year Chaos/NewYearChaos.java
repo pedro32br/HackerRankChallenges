@@ -6,7 +6,7 @@ import java.util.*;
 import java.util.concurrent.*;
 import java.util.regex.*;
 
-public class Solution {
+public class NewYearChaos {
 
     // Complete the minimumBribes function below.
     static void minimumBribes(int[] q, int arraySize) {

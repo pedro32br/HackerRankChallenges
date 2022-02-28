@@ -1,6 +1,6 @@
 import java.util.*;
 
-public class Solution {
+public class IceCreamParlor {
 
     // Complete the whatFlavors function below.
     static void whatFlavors(int[] cost, int money) {

@@ -1,7 +1,7 @@
 import java.io.*;
 import java.util.*;
 
-public class Solution {
+public class JumpingOnTheClouds {
 
     // Complete the jumpingOnClouds function below.
     static int jumpingOnClouds(int[] c) {

@@ -22,7 +22,7 @@ class Checker implements Comparator<Player> {
 }
 
 
-public class Solution {
+public class SortingComparator {
 
     public static void main(String[] args) {
         Scanner scan = new Scanner("davis 15\n" +

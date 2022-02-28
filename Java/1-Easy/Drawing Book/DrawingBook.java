@@ -1,7 +1,7 @@
 import java.io.*;
 import java.util.*;
 
-public class Solution {
+public class DrawingBook {
 
     private static final Scanner scanner = new Scanner(System.in);
 
