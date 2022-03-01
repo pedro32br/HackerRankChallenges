@@ -12,7 +12,7 @@ Every challenge I develop, I will put in this repository
 |2. | [Sock Merchant](https://www.hackerrank.com/challenges/sock-merchant/problem) | [New Year Chaos](https://www.hackerrank.com/challenges/new-year-chaos/problem) |
 |3. | [Drawing Book](https://www.hackerrank.com/challenges/drawing-book/problem) | [Hash Tables: Ice Cream Parlor](https://www.hackerrank.com/challenges/ctci-ice-cream-parlor/problem) |
 |4. | [Counting Valleys](https://www.hackerrank.com/challenges/counting-valleys/problem) | [Queues: A Tale of Two Stacks](https://www.hackerrank.com/challenges/ctci-queue-using-two-stacks/problem) |
-|5. | [Java Static Initializer Block](https://www.hackerrank.com/challenges/java-static-initializer-block/problem)
+|5. | [Java Static Initializer Block](https://www.hackerrank.com/challenges/java-static-initializer-block/problem) | [Arrays: Minimum Swaps 2](https://www.hackerrank.com/challenges/minimum-swaps-2/problem) |
 |6. | [Jumping on the Clouds](https://www.hackerrank.com/challenges/jumping-on-the-clouds/problem)
 |7. | [Repeated String](https://www.hackerrank.com/challenges/repeated-string/problem)
 |8. | [Alternating Characters](https://www.hackerrank.com/challenges/alternating-characters/problem)

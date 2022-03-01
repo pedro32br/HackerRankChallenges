@@ -17,6 +17,7 @@
       <sourceFolder url="file://$MODULE_DIR$/Sorting: Bubble Sort" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/Strings Making Anagrams" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/TwoStrings" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../2-Medium/Minimum Swaps 2" isTestSource="false" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
