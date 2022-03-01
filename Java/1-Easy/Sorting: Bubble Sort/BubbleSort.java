@@ -1,14 +1,14 @@
-// An example Java program for demonstrating HashTable and HashMap
+import static java.util.stream.Collectors.toList;
 
 import java.io.BufferedReader;
 import java.io.IOException;
 import java.io.InputStreamReader;
-import java.util.ArrayList;
 import java.util.Comparator;
 import java.util.List;
 import java.util.Optional;
+import java.util.stream.Stream;
 
-class Teste {
+public class BubbleSort {
 
     public static void countSwaps(final List<Integer> list, final Integer n) {
 
@@ -42,13 +42,11 @@ class Teste {
     public static void main(final String[] args) throws IOException {
         final BufferedReader bufferedReader = new BufferedReader(new InputStreamReader(System.in));
 
-        final int n = 4;
+        final int n = Integer.parseInt(bufferedReader.readLine().trim());
 
-        final List<Integer> a = new ArrayList<>();
-        a.add(4);
-        a.add(3);
-        a.add(2);
-        a.add(1);
+        final List<Integer> a = Stream.of(bufferedReader.readLine().replaceAll("\\s+$", "").split(" "))
+                .map(Integer::parseInt)
+                .collect(toList());
 
         countSwaps(a, n);
 
