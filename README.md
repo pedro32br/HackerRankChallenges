@@ -15,7 +15,7 @@ Every challenge I develop, I will put in this repository
 |5. | [Java Static Initializer Block](https://www.hackerrank.com/challenges/java-static-initializer-block/problem) | [Arrays: Minimum Swaps 2](https://www.hackerrank.com/challenges/minimum-swaps-2/problem) |
 |6. | [Jumping on the Clouds](https://www.hackerrank.com/challenges/jumping-on-the-clouds/problem) | [Dynamic Programming: Max Array Sum](https://www.hackerrank.com/challenges/max-array-sum/problem) |
 |7. | [Repeated String](https://www.hackerrank.com/challenges/repeated-string/problem) | [Dictionaries and Hashmaps: Sherlock and Anagrams](https://www.hackerrank.com/challenges/sherlock-and-anagrams/problem) |
-|8. | [Alternating Characters](https://www.hackerrank.com/challenges/alternating-characters/problem)
+|8. | [Alternating Characters](https://www.hackerrank.com/challenges/alternating-characters/problem) | [Dictionaries and Hashmaps: Count Triplets](https://www.hackerrank.com/challenges/count-triplets-1/problem) |
 |9. | [Hash Tables: Ransom Note](https://www.hackerrank.com/challenges/ctci-ransom-note/problem)
 |10. | [Minimum Absolute Difference](https://www.hackerrank.com/challenges/minimum-absolute-difference-in-an-array/problem)
 |11. | [Arrays: Left Rotation](https://www.hackerrank.com/challenges/ctci-array-left-rotation/problem) |
