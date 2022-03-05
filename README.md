@@ -17,7 +17,7 @@ Every challenge I develop, I will put in this repository
 |7. | [Repeated String](https://www.hackerrank.com/challenges/repeated-string/problem) | [Dictionaries and Hashmaps: Sherlock and Anagrams](https://www.hackerrank.com/challenges/sherlock-and-anagrams/problem) |
 |8. | [Alternating Characters](https://www.hackerrank.com/challenges/alternating-characters/problem) | [Dictionaries and Hashmaps: Count Triplets](https://www.hackerrank.com/challenges/count-triplets-1/problem) |
 |9. | [Hash Tables: Ransom Note](https://www.hackerrank.com/challenges/ctci-ransom-note/problem) | [Dictionaries and Hashmaps: Frequency Queries](https://www.hackerrank.com/challenges/frequency-queries/problem) |
-|10. | [Minimum Absolute Difference](https://www.hackerrank.com/challenges/minimum-absolute-difference-in-an-array/problem)
+|10. | [Minimum Absolute Difference](https://www.hackerrank.com/challenges/minimum-absolute-difference-in-an-array/problem) | [String Manipulation: Sherlock and the Valid String](https://www.hackerrank.com/challenges/sherlock-and-valid-string/problem) |
 |11. | [Arrays: Left Rotation](https://www.hackerrank.com/challenges/ctci-array-left-rotation/problem) |
 |12. | [Strings: Making Anagrams](https://www.hackerrank.com/challenges/ctci-making-anagrams/problem) |
 |13. | [Hashmaps: Two Strings](https://www.hackerrank.com/challenges/two-strings/problem) |

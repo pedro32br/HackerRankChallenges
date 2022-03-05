@@ -23,18 +23,12 @@ m
 =Java/1-Easy/Hash Tables Ransom Note/HashTablesRandomNote.java,e/9/e9e848083f0dd09b80d250fd8b50c7d41ebba187
 y
 IJava/1-Easy/Java Static Initializer Block/JavaStaticInitializerBlock.java,6/e/6ed8d9c212302ec10f9bfcb39d86c4f36c9f9277
-b
-2Java/2-Medium/Ice Cream Parlor/IceCreamParlor.java,b/6/b65663d6c6eebf3b54308d4aa9ad1cbc4acb88b9
-^
-.Java/2-Medium/New Year Chaos/NewYearChaos.java,e/0/e0eb26bc4893aec6d1eaee25fced6cd526d266e3
 g
 7Java/2-Medium/A Tale of Two Stacks/TaleOfTwoStacks.java,c/8/c852c1651ec90406c6ab7de32fe42b6140f1255b
 n
 >Java/1-Easy/Strings Making Anagrams/StringsMakingAnagrams.java,8/d/8d04a0a0dc93592910d9dc122e6eb14140d591cb
 g
 7Java/2-Medium/Sorting Comparator/SortingComparator.java,1/b/1b81952364c4b748099afd54d5ebe64d8aff18ce
-e
-5Java/3-Hard/Array Manipulation/ArrayManipulation.java,a/8/a863a69193668b877cce150b248b3728aec6be9f
 _
 /SQL/Easy/Employee Salaries/EmployeeSalaries.sql,c/0/c0b78f9ce1cf092c2bacfd5031df8472a15be15a
 X
@@ -47,15 +41,9 @@ p
 Teste/Teste.java,9/f/9f983f129a1524bbd4515be913e2596093cfbbea
 `
 0Java/1-Easy/Sorting: Bubble Sort/BubbleSort.java,6/f/6fcd89edd5e11e9287aeb14a2ecc449327369e3b
-\
-,Java/2-Medium/Max Array Sum/MaxArraySum.java,a/7/a7de2a9b508a95673b325f9ff69415a91badbe94
-b
-2Java/2-Medium/Minimum Swaps 2/MinimumSwapsTwo.java,6/6/6682100cfcafb9846c20cd933e6726ed053dfc46
 Y
 )Java/1-Easy/Luck Balance/LuckBalance.java,a/8/a8a4f1276ffad5e0761656e972910c4476392d63
 Z
 *Java/1-Easy/Mark and Toys/MarkAndToys.java,e/9/e949be35941a5b619592299d90472d316604a832
 _
 /Java/2-Medium/Count Triplets/CountTriplets.java,2/9/293f337667a4fb5e5f109cda3d63dc220632a821
-l
-<Java/2-Medium/Sherlock and Anagrams/SherlockAndAnagrams.java,5/7/57cdb9d7f706399f9cc5163e0b86ac0e51244e91

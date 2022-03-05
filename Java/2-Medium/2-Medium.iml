@@ -12,6 +12,7 @@
       <sourceFolder url="file://$MODULE_DIR$/Sherlock and Anagrams" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/Sorting Comparator" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/Frequency Queries" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Sherlock and the Valid String" isTestSource="false" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
