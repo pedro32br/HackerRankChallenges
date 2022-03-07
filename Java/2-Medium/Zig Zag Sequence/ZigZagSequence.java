@@ -1,24 +1,19 @@
-// An example Java program for demonstrating HashTable and HashMap
-
 import java.util.Arrays;
+import java.util.Scanner;
 
-class Teste {
+public class ZigZagSequence {
 
     public static void main(final String[] args) throws java.lang.Exception {
-
-        final int test_cases = 1;
-        final int n = 7;
-        final int[] a = new int[n];
-        a[0] = 1;
-        a[1] = 2;
-        a[2] = 3;
-        a[3] = 4;
-        a[4] = 5;
-        a[5] = 6;
-        a[6] = 7;
-
-        findZigZagSequence(a, n);
-
+        final Scanner kb = new Scanner(System.in);
+        final int test_cases = kb.nextInt();
+        for(int cs = 1; cs <= test_cases; cs++) {
+            final int n = kb.nextInt();
+            final int[] a = new int[n];
+            for(int i = 0; i < n; i++) {
+                a[i] = kb.nextInt();
+            }
+            findZigZagSequence(a, n);
+        }
     }
 
     public static void findZigZagSequence(final int[] a, final int n) {

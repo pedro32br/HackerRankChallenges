@@ -37,8 +37,6 @@ V
 &Java/1-Easy/TwoStrings/TwoStrings.java,a/4/a4c40290a511d999e462ef05a46fd45d45d2dd2f
 p
 @SQL/Easy/Revising the Select Query I/RevisingTheSelectQueryI.sql,8/4/848c477077a7a50deb7ba466ec6bea9381a9908c
-@
-Teste/Teste.java,9/f/9f983f129a1524bbd4515be913e2596093cfbbea
 `
 0Java/1-Easy/Sorting: Bubble Sort/BubbleSort.java,6/f/6fcd89edd5e11e9287aeb14a2ecc449327369e3b
 Y
